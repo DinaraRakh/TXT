@@ -1,1 +1,11 @@
-Не открывается приложение
+Environment:Huawei P30 lite (MAR LX-1M), Android 10 EMUI 10.0.0.490
+  id:1
+  title:Add widget button function is not working on device
+  severity:blocker
+  priority:high
+  precondition:clear the app from running
+  STR:Open app
+        Click “Add Widget” button
+  AR:button design changes on tap, but button function is not working, widget is not created on any page
+  ER:Widget creation window appears/widget created
+  Attachments:https://drive.google.com/file/d/1GH2T4WqkE6ip7Fd6RdqH3QdxffUcDrY4/view?usp=sharing
